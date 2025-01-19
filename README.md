@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Sunil Bhosale</h1>
 <h3 align="center">A passionate React Native Android application developer dedicated to creating seamless, intuitive, and high-performance mobile experiences</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itspranav007" alt="itspranav007" /></a> </p>
-
 - 🔭 I’m currently working on **Hostel Managment**
 
 - 🌱 I’m currently learning **React Native , backend**
@@ -22,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iampranavbhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iampranavbhosale" height="30" width="40" /></a>
+<a href="https://instagram.com/itspranav_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itspranav_z" height="30" width="40" /></a>
 <a href="https://medium.com/@itspranav_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itspranav_developer" height="30" width="40" /></a>
 </p>
 
